@@ -1,0 +1,1 @@
+/* replace consecutive spaces with a single space */
